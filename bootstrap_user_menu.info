@@ -1,0 +1,3 @@
+core = "7.x"
+description = "Replaces Drupal User Menu links with Bootstrap Dropdown Menu. Put links: my account,log off, etc under dropdown."
+name = "Bootstrap User Menu"
